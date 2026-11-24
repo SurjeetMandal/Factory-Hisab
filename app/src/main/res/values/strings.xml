@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Factory Hisab</string>
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_register">Hisab</string>
+    <string name="nav_parties">Parties</string>
+    <string name="nav_payments">Payments</string>
+    <string name="action_add_party">Add Party</string>
+    <string name="action_add_product">Add Item</string>
+    <string name="action_record_payment">Record Payment</string>
+    <string name="action_save_hisab">Save &amp; View Slip</string>
+    <string name="action_share_whatsapp">Share to WhatsApp</string>
+    <string name="empty_parties_title">No Parties Yet</string>
+    <string name="empty_parties_subtitle">Add your factory clients like Lucky Pvt. Limited to manage items, variable step rates, hisabs, and payments.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Factory Hisab",
+  "description": "Offline factory party ledger, variable work-step product calculation, automatic balance carryover, payment tracking, and shareable handwritten ruled-paper hisab slips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
